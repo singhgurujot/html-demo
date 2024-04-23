@@ -5761,7 +5761,7 @@ width: 65%;
 }
 @media only screen and (min-width:768px)  {
     #commentFormStep1{
-        min-height: 899px !important;
+        height: 850px !important;
         display: flex !important;
         width: 100%;
         flex-direction: column;
